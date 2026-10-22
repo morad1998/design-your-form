@@ -1,0 +1,6 @@
+{
+  "name": "Tablet UI Design Studio & Master Guide",
+  "description": "Interactive tablet wireframing canvas with stylus support, shape snapping, UI symbol guides, and real-time design-to-code preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
